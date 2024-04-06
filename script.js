@@ -2,7 +2,7 @@ var cmm = "0";
 var raw = 0;
 var m = "100m";
 const params = new URLSearchParams(window.location.search);
-var id = params.get("id") || "UClOyuxZvQkoHoIn15kNbkUw";
+var id = params.get("id") || "UCVfKmfOY5SWfx_rt51oG92Q";
 var url = "https://api-v2.nextcounts.com/api/youtube/channel/";
 function spl(n) {
 	n = "" + n + "";
